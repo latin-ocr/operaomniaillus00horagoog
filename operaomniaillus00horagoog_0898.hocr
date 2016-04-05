@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaillus00horagoog_0898.png"; bbox 0 0 3150 5200; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 3199 3140 5200">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 3199 3140 5200">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 3199 3140 5200; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 3199 3140 5200; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 827 4871 1964 5132">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 827 4871 1964 5132">
+     <span class='ocr_line' id='line_1_2' title="bbox 827 4871 1964 5132; baseline 0.004 -91.181"><span class='ocrx_word' id='word_1_2' title='bbox 827 4883 958 4966; x_wconf 73' lang='grc'>”</span> <span class='ocrx_word' id='word_1_3' title='bbox 899 4867 1964 5170; x_wconf 52' lang='lat' dir='ltr'><strong>1=u·12.1512-⁴1·*=1··</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1893 4822 2839 5200">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1893 4822 2839 5200">
+     <span class='ocr_line' id='line_1_3' title="bbox 1893 4822 2839 5200; baseline 0.082 -66.096"><span class='ocrx_word' id='word_1_4' title='bbox 1893 4822 2839 5200; x_wconf 35' lang='grc' dir='ltr'><strong>εετηῑψῑῑῐψὶῑ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1176 4879 1967 5190">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1028 4879 1967 5190">
+     <span class='ocr_line' id='line_1_4' title="bbox 1176 4879 1967 5190; baseline 0.009 -86.735"><span class='ocrx_word' id='word_1_5' title='bbox 1176 4879 1648 5190; x_wconf 44' lang='lat' dir='ltr'><strong>‘1⁸&#39;st</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1835 4958 1967 5176; x_wconf 51' lang='lat'><strong>¹³1³*</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
